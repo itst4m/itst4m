@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Tama<br>Fullstack Programmer & Project Manager.<br>dm my discord to contribute with ur project or exam.
-
-![_ (3)](https://github.com/user-attachments/assets/f7049bc1-07ba-4811-ac8b-28e07ad09f60)
+![_ (4)](https://github.com/user-attachments/assets/8ebb7f10-81d1-485f-b854-301cdea5edf6)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/edqkCyyU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timtamtam1328) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@junglerskibidi) 
